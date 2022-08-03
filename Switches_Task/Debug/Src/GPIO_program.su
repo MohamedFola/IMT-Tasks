@@ -1,0 +1,5 @@
+../Src/GPIO_program.c:16:6:GPIO_SetPinValue	16	static
+../Src/GPIO_program.c:28:6:GPIO_SetChannelValue	16	static
+../Src/GPIO_program.c:35:6:GPIO_SetPortValue	16	static
+../Src/GPIO_program.c:42:4:GPIO_GetPinValue	24	static
+../Src/GPIO_program.c:58:4:GPIO_GetChannelValue	24	static
